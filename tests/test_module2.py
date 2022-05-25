@@ -9,7 +9,7 @@ except ImportError:
 
 try:
     from sensor.house_info import HouseInfo
-    home_info = HouseInfo()
+    home_info = HouseInfo(recs)
 except ImportError:
     home_info = 0
 
