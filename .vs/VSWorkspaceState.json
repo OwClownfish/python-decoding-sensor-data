@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\sensor"
+    "\\sensor",
+    "\\tests"
   ],
-  "SelectedNode": "\\sensor\\load_data.py",
+  "SelectedNode": "\\sensor\\house_info.py",
   "PreviewInSolutionExplorer": false
 }
